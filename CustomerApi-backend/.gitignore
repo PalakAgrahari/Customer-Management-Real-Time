@@ -1,0 +1,54 @@
+﻿##########################
+# Maven output directories
+##########################
+target/
+out/
+
+##########################
+# IntelliJ Idea files
+##########################
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+.idea/modules.xml
+.idea/gradle.xml
+.idea/libraries/
+
+##########################
+# System files
+##########################
+.DS_Store
+Thumbs.db
+
+##########################
+# Logs
+##########################
+logs/
+*.log
+
+##########################
+# OS specific junk
+##########################
+*.class
+*.jar
+*.war
+*.ear
+
+##########################
+# Maven wrapper files (keep properties file, ignore binary)
+##########################
+.mvn/wrapper/maven-wrapper.jar
+
+##########################
+# Environment files
+##########################
+*.env
+
+##########################
+# IntelliJ build outputs
+##########################
+bin/

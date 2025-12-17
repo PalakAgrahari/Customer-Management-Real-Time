@@ -1,0 +1,13 @@
+# ===== Backend (Spring Boot) =====
+CustomerApi-backend/target/
+CustomerApi-backend/.idea/
+CustomerApi-backend/*.log
+
+# ===== Frontend (React) =====
+CustomerApi-frontend/node_modules/
+CustomerApi-frontend/build/
+CustomerApi-frontend/.env
+
+# ===== Common =====
+.DS_Store
+.env
