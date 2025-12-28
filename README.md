@@ -1,4 +1,4 @@
-# Customer Management: Empowering Businesses with Real-Time Data Processing
+# Customer Management: Real-Time Data Processing
 
 The Customer API is a RESTful web service that provides endpoints for managing customer data. This API allows users to retrieve, add, update customer records. It is designed to be efficient, secure, and scalable, making it suitable for various applications. There are various methods to retrieve records like from clientId or CustomerId.
 It processes events asynchronously using Kafka, and leverages Redis caching for high-performance data access, and has a React based frontend for interactive user experience.
